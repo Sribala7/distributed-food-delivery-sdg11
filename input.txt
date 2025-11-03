@@ -1,0 +1,5 @@
+ORDER001,Customer1,100,Pizza
+ORDER002,Customer2,150,Burger
+ORDER003,Customer3,200,Sushi
+ORDER004,Customer4,75,Tacos
+ORDER005,Customer5,180,Pasta
